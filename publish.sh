@@ -8,4 +8,4 @@ git add .
 git commit -m "plan update"
 git push
 
-echo -n "# an awesome .plan\n\n" > README.md
+echo -n "# an awesome .plan" > README.md
