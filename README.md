@@ -1,28 +1,17 @@
 # an awesome .plan
 
-wow.  now that i've decided to build this, i just want to dump ALL the information in here.  and all of it, _RIGHT NOW_.
+so, this morning i was thinking more about how i want to try consensus-based, world state authority by [rafting](https://raft.github.io/) clients together.  because, not having a runtime server for an virtual world is a sticky problem to solve.
 
-i'll have to exercise patience, i guess.
+which means i'm puttering around, digging for inspiration, and i found a new, sweet-looking mmo architecture book!  it's called [Development and Deployment of Multiplayer Online Games, Vol. I: Gdd, Authoritative Servers, Communications (Development and Deployment of Multiplayer Games) ](https://smile.amazon.com/gp/product/3903213063/ref=pe_354120_277987370_em_1p_2_ti) -- obvs, a freaking mouthful but whatever.
 
-anyway.
+digging through the tables of contents, it actually looks really good.  it seems like it's got a well-enumerated list of commonly-known-but-rarely-documented tribal knowledge.  i'm actually pretty excited about it.  mostly because a) there's strong confirmation bias of how my mmo mental model works after all these years, and b) it's a documented list of stuff that i always forget until the subject comes up.  "oh yeah, that doesn't actually work like that.  it should be done like this.  sorry, i totally should have mentioned that!  oops!"
 
-oh.
+man, sometimes having a shitty memory sucks.
 
-i know!
+anyhow.
 
-one of the first things i should take care of is letting everyone know about my new job.  ari and esteban over at decentraland talked me into leaving disney and helping them make the next version of the internet.
+also, during my digging, i found a presentation for c4 -- i'd heard of it, but haven't ever taken the time to dig in.  might be useful for wrapping vocabulary around difficult-to-explain concepts.
 
-so, yeah.  i work for decentraland now.
+there's a youtube of [simon brown talking about it](https://www.youtube.com/watch?time_continue=165&v=m76bR16EhrU).
 
-virtual worlds, ftw!
-
----
-
-speaking of keeping up on things, for the new folks in the back [grins, points to the back, listens to a room filled with cricket chirps], this is who i am:  [https://m3mnoch.com/about](https://m3mnoch.com/about)
-
-that's where you can scoop up all the dirt on me.  and, there's plenty to dig through.  i've been doing this internet thing for a long time.
-
----
-
-alrighty.  that's enough fun for the day.  i've got 1/2 an hour to finish up this simple cannon/target ai using our pre-release sdk before i have to start building shelves for the wife.
-
+seemed useful.
