@@ -8,10 +8,15 @@ digging through the tables of contents, it actually looks really good.  it seems
 
 man, sometimes having a shitty memory sucks.
 
-anyhow.
+---
 
 also, during my digging, i found a presentation for c4 -- i'd heard of it, but haven't ever taken the time to dig in.  might be useful for wrapping vocabulary around difficult-to-explain concepts.
 
-there's a youtube of [simon brown talking about it](https://www.youtube.com/watch?time_continue=165&v=m76bR16EhrU).
+there's a youtube of [simon brown talking about it](https://www.youtube.com/watch?v=m76bR16EhrU).
 
 seemed useful.
+
+---
+
+while we're on the subject of inspiration, i just found a pretty nifty blog called [engines of delight](https://gameserverarchitecture.com/) with -- again -- lots of confirmation bias.  probably because it looks like mathew walker has worked in a lot of the same places with the people who taught me much of what i know about virtual world architecture.  cool.
+
