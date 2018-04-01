@@ -26,3 +26,10 @@ man.  so, yesterday, i ran into a signal-processing bug with my little starter e
 
 which explains why i'm watching videos about documenting software architecture instead, eh?  heh.
 
+---
+
+duh.  it helps if you send a duration for your animation.  note to self:  input validation is kind of important.
+
+/eyeroll
+
+ah well.  off to get lunch and move some furniture around.
