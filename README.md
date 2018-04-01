@@ -20,3 +20,9 @@ seemed useful.
 
 while we're on the subject of inspiration, i just found a pretty nifty blog called [engines of delight](https://gameserverarchitecture.com/) with -- again -- lots of confirmation bias.  probably because it looks like mathew walker has worked in a lot of the same places with the people who taught me much of what i know about virtual world architecture.  cool.
 
+---
+
+man.  so, yesterday, i ran into a signal-processing bug with my little starter experience example.  the gobs (game objects) are recieving and processing the `setup` signal, but when they throw their animations on the stack, the animation system isn't processing them for some reason.  it looks like i've got to walk through all the async code to find the bug.
+
+which explains why i'm watching videos about documenting software architecture instead, eh?  heh.
+
