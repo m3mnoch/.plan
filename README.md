@@ -14,4 +14,14 @@ so, in theory, you'll be able to shoot a ball at a target on keypress, or just l
 
 all the plumbing seems to finally be working, so it's just hooking up all the interactions now.
 
+---
+
+heh.  so, my .plan gets tweeted out now when i rotate it.  i'm such a nerd.
+
+---
+
+oooh!  i have to go move the car!  our new dining room table is getting delivered!
+
+---
+
 
