@@ -47,3 +47,11 @@ cut to me:  "where the hell are my location values going?!?!?"
 
 ---
 
+wow.  now that i got to feature-complete state with the game starter kit, i just pulled the new sdk version.  it's soooooooooo cool.  lots more performance.  lots more features.  all kinds of asks i wanted are included.
+
+it's **awesome**.
+
+now, i just have to refactor the beejebus out of the game starter kit.  heh.
+
+_TO THE CODEZ!!_
+
