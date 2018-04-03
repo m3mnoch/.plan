@@ -16,3 +16,22 @@ my list:
 
 ---
 
+oh, hey.  i was talking a bit about the fast, squared distance check i'm using for speedy collition checking in this scripting game starter kit.  here's blob of code i just wrote to handle it:
+
+```
+private checkFastCollision(targetPosition:any, cannonballPosition:any):boolean {
+    // using squared distance for SPEED!
+    // handle x,y plane
+    let dd1:number = Math.pow(targetPosition.x - cannonballPosition.x, 2) + Math.pow(targetPosition.y - cannonballPosition.y, 2);
+    if (dd1 > this.approximateCollisionRadius) return false;
+
+    // handle x,z plane
+    let dd2:number = Math.pow(targetPosition.x - cannonballPosition.x, 2) + Math.pow(targetPosition.z - cannonballPosition.z, 2);
+    if (dd2 > this.approximateCollisionRadius) return false;
+
+    return true;
+}
+```
+
+---
+
