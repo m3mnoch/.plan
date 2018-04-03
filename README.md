@@ -35,3 +35,15 @@ private checkFastCollision(targetPosition:any, cannonballPosition:any):boolean {
 
 ---
 
+goodness.  it's hard to transition from `programming brain` to `strategy brain`.  i'll have to find a way to deal with that if there's going to be so much muxing.
+
+maybe block off my entire calendar for a coding day or something.
+
+---
+
+omfg.  finally fixed a wicked bug i've been working on all day.  deep in some framework code i'd written, i was only meaning to set the `y` value, but accidentally ended up setting `y=[value]`, and `x=null`, and `z=null` instead.
+
+cut to me:  "where the hell are my location values going?!?!?"
+
+---
+
