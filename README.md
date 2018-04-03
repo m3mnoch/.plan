@@ -24,4 +24,21 @@ oooh!  i have to go move the car!  our new dining room table is getting delivere
 
 ---
 
+_whew_
+
+lots of heads-down code-slinging today.  got most of everything worked out.  i have wandering targets and a cannon that automatically fires at them.  i worked in some bare-bones squared-distance collision detection, so tomorrow there will be "explosions".
+
+heh.  more like the targets just turning black and melting into the ground.
+
+still.  pretty neat.
+
+and then . . . doh!  we don't really have any keyboard input support yet for the user-controls.  so, i couldn't hotswap the controls back and forth from humans to the ai.  but, i guess it makes sense since there's not keyboard inputs in vr.  duh.
+
+tho, it makes prototyping hard.
+
+_/shakesfist_
+
+anyway.  that's enough for today.  the wife is making some fresh salmon for dinner and we've got a badass new dining room table to eat at.  yay!
+
+
 
