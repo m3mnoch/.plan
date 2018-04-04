@@ -36,3 +36,32 @@ you can see the old ones here: https://github.com/decentraland/sample-scenes
 
 ---
 
+heh.  i just noticed.  i've got slack, discord, whatsapp, telegram, and a google hangouts window -- all open.
+
+---
+
+we had web 1.0 -- look!  hotmetal wizards!
+
+we had web 2.0 -- look!  fancy personalization!
+
+welcome to web 3.0 -- look!  decentralized infrastructure!
+
+https://hackernoon.com/crossing-over-to-web3-an-introduction-to-decentralised-development-5eb09e95edb0
+
+---
+
+bleagh.  i'm digging into the guts of [how react thinks](https://reactjs.org/docs/state-and-lifecycle.html) right now.  and how to bend it into something to build a component-based game around.
+
+---
+
+example dev scenarios we're thinking about targeting:
+
+- fully static scene of primitives and gltf models
+- animated by object translation (a object moves through space)
+- interactive scene with a click event handler
+- skeletal animation scene
+- video playback scene
+- starter game framework
+- experimental multi-user scene
+
+so, in theory, we'll have all seven sample scenes up and documented on github when our sdk launches.  looks like i've got a ton of work ahead of me, eh?
