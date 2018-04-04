@@ -10,4 +10,5 @@ git push
 
 ./tweet.sh post i just rotated my .plan file: https://github.com/m3mnoch/.plan/blob/master/archive/${date_daily}-plan.md
 
-printf "# an awesome .plan\n\n" > README.md
+printf "# an awesome .plan\n\n#### if you're looking for my previous days, check the archives.\n\n---\n\n" > README.md
+

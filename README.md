@@ -1,5 +1,9 @@
 # an awesome .plan
 
+#### if you're looking for my previous days, check the archives.
+
+---
+
 so, i was talking to my friend [andi](https://www.linkedin.com/in/andismithers/) and two interesting things came out of it.
 
 1) he helped me with advice on how to optimize that distance check yesterday.
