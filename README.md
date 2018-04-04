@@ -1,57 +1,34 @@
 # an awesome .plan
 
-going through my list of stuff i accomplished this past week for a project update.
+so, i was talking to my friend [andi](https://www.linkedin.com/in/andismithers/) and two interesting things came out of it.
 
-at first, i felt like i didn't get much done.  dude.  duuuuuude. looking back at my notes, and the amount of stuff i've built feels like i crammed about a month into a week.  srsly, time-dilation is happening.
+1) he helped me with advice on how to optimize that distance check yesterday.
 
-my list:
+> hey chris.. I think you'll find that doing vector operations and not reducing them into individuals.. t = targetPosition - cannonballPosition; if (t.dot(t) < radius*radius) would actually work better. as a vector.. even then t.x*t.x + t.y*t.y+t.z*t.z < radius*radius as individual..
 
-- based on a large team tech review, developed a plan for a game starter kit.
-- built out a "product fit" spreadsheet which is leading to a blog post.
-- built a bunch of game shims to wrap the core api.  these aren't things we want to necessarily build into the platform since there will be MANY non-game scenes out there.
-- recreated the "color-rotating cube moves in a square" scene, but as a snap-on ai component you can attach to any object.
-- designed a simple game-like experience -- cannon popping a cannonball at some autonomous, roaming targets limited to a specific play space.
-- got the experience finished off but for the cannonball animation.
-- wrote some management shell scripts for this badass .plan thing!  complete with tweeting it out when i rotate!
+which is great.  i should have used vectors, but i was just splatting stuff down.  besides, in all my javascript years (going back to the late 90s), i've never actually used vectors with javascript, much less typescript.
 
----
+c#?  check.
 
-oh, hey.  i was talking a bit about the fast, squared distance check i'm using for speedy collition checking in this scripting game starter kit.  here's blob of code i just wrote to handle it:
+as?  check.
 
-```
-private checkFastCollision(targetPosition:any, cannonballPosition:any):boolean {
-    // using squared distance for SPEED!
-    // handle x,y plane
-    let dd1:number = Math.pow(targetPosition.x - cannonballPosition.x, 2) + Math.pow(targetPosition.y - cannonballPosition.y, 2);
-    if (dd1 > this.approximateCollisionRadius) return false;
+haxe?  check.
 
-    // handle x,z plane
-    let dd2:number = Math.pow(targetPosition.x - cannonballPosition.x, 2) + Math.pow(targetPosition.z - cannonballPosition.z, 2);
-    if (dd2 > this.approximateCollisionRadius) return false;
+js?  nope.
 
-    return true;
-}
-```
+anyway . . . i digress.
+
+2) it made me think about the crazy nature of today's big blockchain projects (for example, the [proof-of-work](https://proofofwork.substack.com/) list) and their open source nature.  
+
+in the old days, open source software was written by volunteers, so they were begging for time and visibility.  with the ico phenomenon, we've now got a few projects that are basically like oss that's had a super-successful kickstarter.
+
+which means, radical transparency is important for the ico investors' mental health.  heh.
 
 ---
 
-goodness.  it's hard to transition from `programming brain` to `strategy brain`.  i'll have to find a way to deal with that if there's going to be so much muxing.
+this new sdk drop -- a closer version to what we're releasing soon -- is so awesome.  it's got jsx-style pieces that i'm working into my starter game framework.  i'll probably drop in an interactive item example, too.
 
-maybe block off my entire calendar for a coding day or something.
-
----
-
-omfg.  finally fixed a wicked bug i've been working on all day.  deep in some framework code i'd written, i was only meaning to set the `y` value, but accidentally ended up setting `y=[value]`, and `x=null`, and `z=null` instead.
-
-cut to me:  "where the hell are my location values going?!?!?"
+you can see the old ones here: https://github.com/decentraland/sample-scenes
 
 ---
-
-wow.  now that i got to feature-complete state with the game starter kit, i just pulled the new sdk version.  it's soooooooooo cool.  lots more performance.  lots more features.  all kinds of asks i wanted are included.
-
-it's **awesome**.
-
-now, i just have to refactor the beejebus out of the game starter kit.  heh.
-
-_TO THE CODEZ!!_
 
