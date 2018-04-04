@@ -65,3 +65,5 @@ example dev scenarios we're thinking about targeting:
 - experimental multi-user scene
 
 so, in theory, we'll have all seven sample scenes up and documented on github when our sdk launches.  looks like i've got a ton of work ahead of me, eh?
+
+oh!  and, if you've got a suggestion for something specific you want to see as far as examples or what to build, [give me a holler on twitter](https://twitter.com/m3mnoch).
