@@ -20,3 +20,11 @@ so, coming soon to a decentraland blog near you, _chris thoughts!_
 
 ---
 
+lots of meetings today around product and partners.  about driving our company objectives through the rest of the year.
+
+man, i know from the outside, it seems like we're moving at a glacial pace, but i promise -- we're not.  this is breakneck speed folks.  it just feels slow because the project is so large in scope.  even after we've cut back the scope and focused more heavily on priorities.  come to find out, launching a decentralized virtual world has a TON of dependencies.
+
+dependencies that _must_ be done right the first time because they're going to forge all the precidents down the road.  vocabulary, best practices, directory structures -- all kinds of seemingly innocuous things.
+
+---
+
