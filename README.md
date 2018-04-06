@@ -14,3 +14,12 @@ if you're a company building crypto-collectibles, give me a holler.  let's figur
 
 ---
 
+this is pretty awesome:
+https://blog.sketchfab.com/real-time-design-challenge-medieval-fantasy/
+
+i absolutely love the heavy retro-design influences on all these low-poly vr models.  the perf constraints are making for some amazing-looking art.
+
+the combo of "low enough poly for stereo-camera vr" with "low enough poly for web regular 3d" is really a sweet spot right now.  and it's having deep design influences across the idustry.
+
+---
+
