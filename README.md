@@ -23,3 +23,21 @@ the combo of "low enough poly for stereo-camera vr" with "low enough poly for we
 
 ---
 
+whoops -- got distracted again today.
+
+i ended up in the weeds, thinking about our blockchain gaming confernce we're hosting in hong kong later this summer.  i'm signed up for one of the speaker slots, specifically covering the effects real economic scarcity has on virtual worlds.
+
+my brain ran through a ton of both interrelated and sequential topics as i did some thought experimentation.  things like:
+
+- land ownership is the original scarce resource
+- the different impacts both artificial and real scarcity have on entrepreneurship
+- virtual vs. real world analogies around copying goods and ip
+- the first-sale doctrine
+- the twists and turns reputation takes when it is codified instead of subjective
+- how bitcoin eventually becomes a translation layer between both physical and virtual goods.
+- what happens when virtual avatars are economically scarce and widely available?
+- since the blockchain is a database, what happens to game cross-cutting systems like "player inventory"?
+
+this whole thing is about to get crazy, y'all.  non-fungible tokens are going to blow up everything we know.
+
+---
