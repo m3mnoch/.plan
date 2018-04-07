@@ -14,3 +14,15 @@ lemme run it by some folks internally, and then i'll talk more about it here.  i
 
 ---
 
+my friend andrew is making some really fun stuff with a 2d web rpg bent.  which, if you know him, is totally what he's always doing.  makes me long for the days of fun sprite animations.
+
+check out his cool rpg persona thing here:
+[https://triptych.itch.io/my-rpg-persona](https://triptych.itch.io/my-rpg-persona)
+
+it uses this spritesheet for its data:
+[https://cdn.glitch.com/bf17255d-7747-4524-8b01-fa0c957c7232%2FDungeonCrawl_ProjectUtumnoTileset.png](https://cdn.glitch.com/bf17255d-7747-4524-8b01-fa0c957c7232%2FDungeonCrawl_ProjectUtumnoTileset.png)
+
+so much fun!
+
+---
+
