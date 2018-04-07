@@ -41,3 +41,6 @@ my brain ran through a ton of both interrelated and sequential topics as i did s
 this whole thing is about to get crazy, y'all.  non-fungible tokens are going to blow up everything we know.
 
 ---
+
+woot!  guess who just poured himself a highball of jameson cask mates, stout edition while he writes the rest of this blog post?!?
+
