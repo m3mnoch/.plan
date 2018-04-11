@@ -4,34 +4,60 @@
 
 ---
 
-dammit.  today, for real, i'm scraping together all this sample code.
+so, yesterday, when talking with the community on our discord development channel, one of the things i mentioned about my little [test ping-pong cannon](https://youtu.be/x_D9XmFi8GY):
 
-for really, reals!
+> that's what i mean.  lots of players attribute smarts where game devs just hacked something simple in.
+
+tetepey was postulating around the kind of ai i dropped on the little boxes.
+
+truth?
+
+it's just random.
+
+```
+  public determineNextMove(frameTime: number) {
+    // we're just randomly moving.  someday, we
+    // should think a bit about where to go.
+    this.moveTarget.x = randomInclusiveInteger(
+      GameConfig.playBoundary.x[0],
+      GameConfig.playBoundary.x[1]
+    );
+    this.moveTarget.z = randomInclusiveInteger(
+      GameConfig.playBoundary.z[0],
+      GameConfig.playBoundary.z[1]
+    );
+
+    // how long do we squat before we move again?
+    this.activateTime =
+      frameTime +
+      randomInclusiveInteger(
+        GameConfig.shuffleTimes[0],
+        GameConfig.shuffleTimes[1]
+      );
+  }```
+
+and, while we're on the subject of truth, here's jennifer scheurle excellent gdc session on how game designers fake everyone out all the time:  
+[https://www.gdcvault.com/play/1024959/Good-Game-Design-is-like](https://www.gdcvault.com/play/1024959/Good-Game-Design-is-like)
 
 ---
 
-working through the use cases on using the sdk, cli, and client.  it's pretty cool seeing all this stuff coming together.
+folks seem to be asking how to get in on "the beta" and what-have-you.  our process and docs are kinda tucked away right now.  soon, we'll be sending broader messaging out to the community on how to get started.
 
-our workflow will probably end up being something like this:
+in the meantime, tho:
 
-1. install the dcl cli.
-2. type `dcl init`.
-3. [sling all your javascript code here.]
-4. type `dcl preview` to check it out locally.
-5. type `dcl deploy` to push it to out to your parcel.
+1) we're on discord in the #development channel. https://discord.gg/k5ydeZp
 
-i mean, it should be really, really simple by the time we've got it worked through.  it's pretty freakin' exciting.
+2) there's a cli to install for tools.
+https://docs.decentraland.org/docs
+
+3) we've got a javascript api to program against.
+https://decentraland.github.io/cli/index.html
+
+4) there's some sample code on github.
+https://github.com/decentraland/sample-scenes
+
+give me a holler if you want more details!
 
 ---
 
-showed off some of the behind-the-scenes stuff to the guys in the #development discord channel.  it's super-exciting to start talking about all this hard work the team has been doing.
 
-i can't wait to get more people's hands on this.
-
----
-
-holy cow!  talking to the guys about doing a dev-diary style podcast or twitch stream.  what do you guys think?  would that be interesting?
-
-i'd grab various people around the org and drag them in front of a camera/mic and ask them about the super-cool stuff they're working on.  where they see things going.  what they ate for breakfast -- you know, only the important stuff.
-
-i'd toooootally be up for that.  we should do it.
