@@ -34,7 +34,8 @@ it's just random.
         GameConfig.shuffleTimes[0],
         GameConfig.shuffleTimes[1]
       );
-  }```
+  }
+```
 
 and, while we're on the subject of truth, here's jennifer scheurle excellent gdc session on how game designers fake everyone out all the time:  
 [https://www.gdcvault.com/play/1024959/Good-Game-Design-is-like](https://www.gdcvault.com/play/1024959/Good-Game-Design-is-like)
