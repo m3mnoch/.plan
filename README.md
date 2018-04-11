@@ -37,7 +37,7 @@ it's just random.
   }
 ```
 
-and, while we're on the subject of truth, here's jennifer scheurle excellent gdc session on how game designers fake everyone out all the time:  
+and, while we're on the subject of truth, here's jennifer scheurle's excellent gdc session on how game designers fake everyone out all the time:  
 [https://www.gdcvault.com/play/1024959/Good-Game-Design-is-like](https://www.gdcvault.com/play/1024959/Good-Game-Design-is-like)
 
 ---
@@ -61,4 +61,23 @@ give me a holler if you want more details!
 
 ---
 
+oooh.  i found something cool!
+
+context:  i'm digging into the best way to handle a `tick()` in javascript.  right now, we're doing it with setInterval().  with a variable frame execution time, i suspect that's not the best choice for a smooth framerate.
+
+i was toying with using a promise for our framerate tick (and to let the thread breath), but all the code examples everywhere are creating new promises each time.  at 60 promises a second, that sounds . . . uh . . . like the garbage collector will HATE us.
+
+i found this test runner out at jsperf.com:  [https://jsperf.com/test002/32](https://jsperf.com/test002/32)
+
+it's given me an idea on how to reuse a single promise to build a solid framerate ticker.
+
+---
+
+well, that didn't work.
+
+damn javascript and it's heavy-weight-only options for thread yielding.
+
+on the brightside, i learned a lot about the guts of the various javascript timer events.
+
+oh, and it looks like, with that knowledge, i just recovered about 15 additional frames per second.  granted, that's anecdotal and i'm setting up more objective tests, but it looks good.
 
