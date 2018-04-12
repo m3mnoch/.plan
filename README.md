@@ -81,3 +81,11 @@ on the brightside, i learned a lot about the guts of the various javascript time
 
 oh, and it looks like, with that knowledge, i just recovered about 15 additional frames per second.  granted, that's anecdotal and i'm setting up more objective tests, but it looks good.
 
+---
+
+nah.  measuring it apples-to-apples, there was barely a notice in performance difference.  within the realm of statistical variance.
+
+since that's the case, the simpler version wins!
+
+meaning, i think i finally have the recommended way to implement a game loop on the platform.
+
