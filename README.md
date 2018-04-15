@@ -18,3 +18,11 @@ lemme figure out how i want to structure that.
 
 ---
 
+well, i didn't manage to get the door up, but i got the swimming shark instead.
+
+check it out!
+https://github.com/decentraland/sample-scenes/tree/master/04-skeletal-animation
+
+---
+
+off to get ready for wine tasting!  see you guys tomorrow.
