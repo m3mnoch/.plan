@@ -4,12 +4,13 @@
 
 ---
 
-got the interactive door example up and running today.  it was a piece of cake.
+lots of talk in-house on parcel limits and how we want to set up a solid precedent around being good neighbors.  because, you know, it would suck if your neighbor has a monster vr rig and drops down a 20 million triangle scene with 5 gigs of textures right next to yours.
 
-the video playback one, tho.  man, it's being a booger.
+"don't look south, johnny!  don't do it!"
 
-on the brightside, i'm working through the guts of how to blend scene.xml files with scene.tsx files.  it's pretty nice how compatible they are.  the guys did a great job with that.
+[entire laptop freezes]
 
-however, i'm having issues with both the remote video link and the text for for the ui.  i'm doing something dumb, i'm sure.
+"you looked south, didn't you . . . "
 
-anyhow.  aside from a few meetings today, i didn't feel very productive.  gonna have to bang through this stuff in the morning.
+---
+
