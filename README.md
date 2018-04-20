@@ -14,3 +14,10 @@ http://podcastapp.io/returning-the-power-of-the-internet-to-its-usersvia-cryptoc
 
 ---
 
+hashed mostly through avatar-related stuff.  lots of 'how far can we stretch our platform to build fun things?' questions.
+
+speaking of, i wonder if i can get a little pub/sub event system and a finite state machine slipped in this example.
+
+that'd be pretty cool.
+
+to the codez!!
