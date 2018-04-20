@@ -18,7 +18,7 @@ i think it can be a pretty sweet game.  i'll have to keep it top of mind.
 
 ---
 
-now, i can't get my mind out of the design mode.  i finished deploying the air-swimming shart to my parcel, built out the partner content application form, and now i'm totally sitting here dreaming up ways to abstract game content.
+now, i can't get my mind out of the design mode.  i finished deploying the air-swimming shark to my parcel, built out the partner content application form, and now i'm totally sitting here dreaming up ways to abstract game content.
 
 meaning, i think i want to make blank-canvas crypto-game assets.
 
