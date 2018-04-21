@@ -4,20 +4,8 @@
 
 ---
 
-listening to chris dixon on the boostvc podcast.  i've long been a fan.  we've got a lot of the same opinions about things.
+because i'm one of those guys who has most of his amazing ideas in the shower, i present today's episode of _shower thoughts with chris_:
 
-also!  HE DOES THE CHRIS-RANT ABOUT FIRST TIME IN HISTORY THERE'S REAL DIGITAL SCARCITY BECAUSE OF BLOCKCHAIN!!
+1) this whole decentralized virtual world thing is really missing volatile runtime state data storage.  i should go look, but it feels like there should be a golem-ipfs-like chain service for it.  like a decentralized memcache.
 
-warning: he talks really, really fast.
-
-http://podcastapp.io/returning-the-power-of-the-internet-to-its-usersvia-cryptocurrency-with-az-vc-chris-dixon-e30266067/
-
----
-
-hashed mostly through avatar-related stuff.  lots of 'how far can we stretch our platform to build fun things?' questions.
-
-speaking of, i wonder if i can get a little pub/sub event system and a finite state machine slipped in this example.
-
-that'd be pretty cool.
-
-to the codez!!
+2) this morning, i installed haxe and openfl again (new laptop) and revisited some of my side explorations of it from back in 2014 or so.  man, it's come a long way.  makes me wonder, since [typescript<->haxe](https://github.com/jeremyfa/node-ts2hx) is a thing these days, would a dcl client [crosscompiled to ios](https://haxe.org/use-cases/mobile/) also be a thing?
