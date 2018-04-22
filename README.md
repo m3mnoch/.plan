@@ -30,3 +30,13 @@ regardless, it was pretty easy for me, personally, to deal with the fallout of t
 
 ---
 
+oh!  so, this afternoon, i'm flying down to buenos aires to hang with all the guys and make some decisions.  i'm super-excited.
+
+i'll keep you guys posted on the sort of stuff we're talking about.  right now, the rough, high-level view of the stuff we're talking about revolves around risk (not the competitive kind, we don't really care about that), our 2018 company charter plans, how crypto-collectibles intersect with our platform, and some technical direction stakes-in-the-ground.
+
+like usual, i'll let you guys know what we decide.
+
+in the meantime, let us know what you think about the new sdk thing we're launching.  i think it's super-cool for a whole bunch of interesting reasons.
+
+---
+
