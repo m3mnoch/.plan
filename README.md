@@ -13,3 +13,11 @@ what should we do today?
 i know!  let's release the sdk!
 
 ---
+
+and, we're live!
+[https://blog.decentraland.org/announcing-the-decentraland-sdk-alpha-e0138452ff8d](https://blog.decentraland.org/announcing-the-decentraland-sdk-alpha-e0138452ff8d)
+
+good work everyone!  knocking down milestones, yo!
+
+---
+
