@@ -4,20 +4,14 @@
 
 ---
 
-oh, hey!  i'm in buenos aires this week.  lemme know if you guys want me to bring you back a bottle of malbec.
+so much strategy!
 
-hrm.
+hopefully, we'll be able to work through decisions on things like identity, the part mana plays, and any intrinsic risks we can foresee with all our plans.
 
-what should we do today?
-
-i know!  let's release the sdk!
+my calendar just got wiped-and-reset for the week while i'm down here in buenos aires.
 
 ---
 
-and, we're live!
-[https://blog.decentraland.org/announcing-the-decentraland-sdk-alpha-e0138452ff8d](https://blog.decentraland.org/announcing-the-decentraland-sdk-alpha-e0138452ff8d)
+doh!
 
-good work everyone!  knocking down milestones, yo!
-
----
-
+we're doing an internal "dogfooding" hackathon this week.  man, i hope i can find time to play!  i have so many things i want to build!
