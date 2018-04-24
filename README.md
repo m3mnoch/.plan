@@ -36,7 +36,7 @@ for example:
 
 5) if they truly own their avatar, they can do horrible things to that avatar and force a centralized company to censor that avatar and its items.
 
-6) someone else not in your nation state will allow that avatar and their in a competing world or game.
+6) someone else not in your nation state will allow that avatar and their items in a competing world or game.
 
 7) at best, your tools just become content creation tools for other games and applications.  at worst, your world becomes a ghost town.
 
