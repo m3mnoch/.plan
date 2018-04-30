@@ -4,13 +4,11 @@
 
 ---
 
-so, had an email exchange with the cards against humanity guys.  i thought it would be fun to take advantage of their creative commons license, and use their cards as a demo for our audience. specifically as an example on how to structure their own mutliplayer games.
-
-after chatting a bit, it seems like they're getting lots of folks abusing their license . . .
-
-hey, people: STOP ABUSING THE CARDS AGAINST HUMANITY CREATIVE COMMONS LICENSE!
-
-because, dammit, you're going to ruin it for the rest of us!
+working on buffing up the scene examples with nicer art.  shibu is the MASTER of low-poly scenic flair.
 
 ---
+
+also, finally working on this blog post for the loot crates rpg design.  so excited to actually build it.  some day.  when i find a dumpster full of time.
+
+on the bright side, eric is going to be so excited i've found time to work on it!  i don't want to make him a sad panda!
 
