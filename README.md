@@ -4,11 +4,14 @@
 
 ---
 
-working on buffing up the scene examples with nicer art.  shibu is the MASTER of low-poly scenic flair.
+ha!  i totally forgot to rotate my plan yesterday.
+
+basically, yesterday i did:
+
+- design and research around spawners and pooling
+- buffing out my loot crate blog post
+- chatting with community members
+- a squishy bit of recruiting work
 
 ---
-
-also, finally working on this blog post for the loot crates rpg design.  so excited to actually build it.  some day.  when i find a dumpster full of time.
-
-on the bright side, eric is going to be so excited i've found time to work on it!  i don't want to make him a sad panda!
 
