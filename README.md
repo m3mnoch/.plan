@@ -4,14 +4,13 @@
 
 ---
 
-ha!  i totally forgot to rotate my plan yesterday.
+i may have discovered a bug in our entity rendering system.  gotta work up an isolated test case around it.
 
-basically, yesterday i did:
-
-- design and research around spawners and pooling
-- buffing out my loot crate blog post
-- chatting with community members
-- a squishy bit of recruiting work
+yay for exercising the platform!
 
 ---
+
+my blog post seems to be getting the good kind of traction.  that's cool.  i was worried about some of the negative connections some people have with games and loot crates.
+
+like i mentioned to a person on reddit, if you think about it, mob stands for "mobile object" and is basically a name for a walking loot crate.
 
