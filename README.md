@@ -4,30 +4,38 @@
 
 ---
 
-i may have discovered a bug in our entity rendering system.  gotta work up an isolated test case around it.
-
-yay for exercising the platform!
-
----
-
-my blog post seems to be getting the good kind of traction.  that's cool.  i was worried about some of the negative connections some people have with games and loot crates.
-
-like i mentioned to a person on reddit, if you think about it, mob stands for "mobile object" and is basically a name for a walking loot crate.
+if you didn't see it, esteban crushed it in his ama yesterday.  such good stuff:
+[https://www.reddit.com/r/decentraland/comments/8gum3o/i_am_esteban_founder_and_tech_lead_at/](https://www.reddit.com/r/decentraland/comments/8gum3o/i_am_esteban_founder_and_tech_lead_at/)
 
 ---
 
-was fielding some questions about large textures and decentraland.  this is basically what i blurbed out as an answer:
+oh goodness!  i've seen previews of our first iteration of avatars and they are winning!  i say it all the time, but shibu is SO GOOD.
 
-> usually, the reason people want a single, giant texture is to build a huge texture atlas.  those work great for offline, single environment situations where you can preload the image.  for a streaming virtual world, with lots of crazy things possible on nearby parcels, it'll be a complete bogging down of memory and load times.
-> 
-> more about texture atlases here:  [https://www.gamasutra.com/view/feature/2530/practical_texture_atlases.php](https://www.gamasutra.com/view/feature/2530/practical_texture_atlases.php)
-> 
-> in fact, that article has a great quote:
->
-> "The greatest problem with the described static texture atlases is that they don't easily combine with any kind of asset streaming, or on-demand loading with fine granularity."
+and, on that note, we're talking a lot about identity.
 
-also, today's lesson in textures for online, web-based games:
+for example, i relayed the old [metaplace](https://en.wikipedia.org/wiki/Metaplace) story about avatar creation.
 
-notice math says that a 512^2 texture is 1/64th the size of a massive 4096^2 texture.  4k textures are freaking ridiculous.  aka, 64mb uncompressed on the video card.  because i’m SURE you don't want to be hosting dxt/pvrtc/whatever compressed textures with their 4:1 compression ratios.  those would be crazy to download over a png or jpg.  like, at least an order of magnitude larger on disk.
+so, metaplace was very likely the first mmo on the web where you could click a link on some random web page, and be transported directly to a specific part of a virtual world.  that meant, you could have a website about your virtual zoo where you talked about each animal and its history.  from there, you could click a link, and be transported right to that animal's pen where you could play and interact with them.
 
-so, basically, you want to look at the various tradeoffs between downloading file size and texture memory size when it comes to the network culling in an n-parcel radius.
+it was pretty powerful.
+
+but, about the avatars -- we also had a unique problem in that when you, as a brand new metaplace user, clicked a link, expecting to see a lion den, but instead you were hijacked to a character creation screen instead, you bounced.
+
+turns out, people hated that.
+
+the analogy is like, clicking a link to read a web article, but being redirected to the site's registration form.
+
+so, our solution was to randomly generate your avatar and just drop you into the zoo where you were expecting to land.
+
+and, omg, did people HATE that.
+
+"why the f*ck am i a black woman?!?!"
+
+eep.
+
+so, we ended up just defaulting you to a ghostly, gender-neutral avatar, let you enjoy the context of your visit, and then popped a notification that you should visit our avatar makeover shop.
+
+victory.
+
+---
+
