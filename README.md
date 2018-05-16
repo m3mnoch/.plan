@@ -4,11 +4,12 @@
 
 ---
 
-was in total systems design mode yesterday.  like what usually happens with me, i only wrote down 10% of my thoughts, but it's the 10% that everything else is derived from.  that's why i loved physics in school.  you just had to remember a few equations and then you could derive everything else!
+i figured since i was talking about game designers and spreadsheets and math and stuff, i'd drop in an example.
 
-anyway.  today is spreadsheet time!  YES!!
+here's my first-pass salvage table for the resource-gathering game i'm building:
 
-any game designer can tell you, spreadsheet time is the best!
+![salvage table](https://raw.githubusercontent.com/m3mnoch/.plan/master/images/salvage-table.png)
+
+as a common practice, i like to make editable cells green, so it's easy to figure out which values are "designer" configurable.
 
 ---
-
