@@ -4,19 +4,26 @@
 
 ---
 
-finally worked through all of the building costs and the drop rates.  all of it, of course, configurable to calculate the proper amount of resource availability per-building.
+working through all the drone calculations.  adding them to the overall resource requirements.
 
-here's a snapshot of the level one factories and such.  keep in mind, when looking at the cost curve, things like the `specialized tools factory` have dependencies on building a level 2 `recycler`.
+![drone calculations](https://raw.githubusercontent.com/m3mnoch/.plan/master/images/drone-calculations.png)
 
-so, yeah.  not pictured: dependency chains.
 
-![level one building costs](https://raw.githubusercontent.com/m3mnoch/.plan/master/images/level-1-building-costs.png)
+then! now that we've got drones!  we've got to have playspace for the drones!  especially those tricky hacker drones.
 
+![playspace connections](https://raw.githubusercontent.com/m3mnoch/.plan/master/images/playspace.png)
+
+i'm gonna lose my mind the first time a drone automatically deploys a flinger in front of one of those doorways.  ha!
 
 ---
 
-i sketched up a quick base layout for our 3d artist team to start working up concepts.
+also note:  i'm designing [the game](archive/2018-05-13-plan.md) for each round to have a similar cadence to [munchkin](http://www.worldofmunchkin.com/game/), but with faction-based teams all competing for a common set of resources.
 
-![level one building costs](https://raw.githubusercontent.com/m3mnoch/.plan/master/images/base-layout.jpg)
+- there'll be temporary alliances when one of the factions gets close to completing their escape ship.
+- there will be stealing of other factions' resources
+- there's gonna be defending your own faction's resources
+- and, of course, large, coarse teamwork goals revolving around tighter, more detailed personal goals.
 
-man, but i love designing games.
+it's coming together in a way i think will be pretty damn fun.  lots of strategy and replayability along with (hopefully) fun socializing opportunities.
+
+---
