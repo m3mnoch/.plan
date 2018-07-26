@@ -4,26 +4,14 @@
 
 ---
 
-working through all the drone calculations.  adding them to the overall resource requirements.
+hey there!  long time, no talk!  i've been super, ridiculously busy of late.  mostly talking to awesome game designers about the various projects they want to build on decentraland.
 
-![drone calculations](https://raw.githubusercontent.com/m3mnoch/.plan/master/images/drone-calculations.png)
+unfortunately, since we (decentraland) don't own their ip or designs, i can't really tell you about a lot of the coolest things.
 
+however!  good news!
 
-then! now that we've got drones!  we've got to have playspace for the drones!  especially those tricky hacker drones.
+i'm getting some folks in-place to help me scale!  yay!  so that means, dammit, i'm getting back to this .plan stuff.
 
-![playspace connections](https://raw.githubusercontent.com/m3mnoch/.plan/master/images/playspace.png)
+because i miss talking to you guys.
 
-i'm gonna lose my mind the first time a drone automatically deploys a flinger in front of one of those doorways.  ha!
-
----
-
-also note:  i'm designing [the game](archive/2018-05-13-plan.md) for each round to have a similar cadence to [munchkin](http://www.worldofmunchkin.com/game/), but with faction-based teams all competing for a common set of resources.
-
-- there'll be temporary alliances when one of the factions gets close to completing their escape ship.
-- there will be stealing of other factions' resources
-- there's gonna be defending your own faction's resources
-- and, of course, large, coarse teamwork goals revolving around tighter, more detailed personal goals.
-
-it's coming together in a way i think will be pretty damn fun.  lots of strategy and replayability along with (hopefully) fun socializing opportunities.
-
----
+<3
