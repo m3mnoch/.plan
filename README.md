@@ -4,14 +4,13 @@
 
 ---
 
-hey there!  long time, no talk!  i've been super, ridiculously busy of late.  mostly talking to awesome game designers about the various projects they want to build on decentraland.
+man.  [nifty was badass](https://www.youtube.com/channel/UCRbWQqUyveyZAXExUZO4EHw/videos).  if you didn't go, you missed out.  
 
-unfortunately, since we (decentraland) don't own their ip or designs, i can't really tell you about a lot of the coolest things.
+for reals.
 
-however!  good news!
+it felt like the coming out party for nft games.  so much ignition.
 
-i'm getting some folks in-place to help me scale!  yay!  so that means, dammit, i'm getting back to this .plan stuff.
+oh, and of course you've already seen it since i've been pimping it EVERYWHERE, but our panel of designing games was . . . so.  much.  fun.  so, watch us [living like legends designing dim sum of doom!!](https://www.youtube.com/watch?v=nzumqu2zpCs)
 
-because i miss talking to you guys.
+---
 
-<3
