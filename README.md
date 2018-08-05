@@ -32,5 +32,8 @@ here's a list of randomness:
 - speedy transactions on a sidechain
     - the more data you give to the player in a side chain (whether or not they hit a boss with a rocket), the more damage they can do by trading them to other players.
     - selling the stream of tokens for "beating a boss" that awarded me an achievement token so other folks can be awarded that same achievement.
+- guild voting tokens
+    - what happens when you've got the "disgruntled former guild member"?
+    - they could sell their vote tokens to bad actors
 
 i'm now pretty interested in the "line in the sand" as to which blockchain transactions are going to be useful for games and which are not.  and, if that line is shifted back more towards high-utility, infrequently-granted asset nfts, do we really need a sidechain for games?
