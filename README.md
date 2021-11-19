@@ -140,7 +140,7 @@ you can read more about it on [their site](https://themetakey.com/#partners).
 
 ### thorguards
 
-<img src="https://thorguards.nyc3.cdn.digitaloceanspaces.com/images/9630.png" alt="" width="100"/>
+<img src="https://lh3.googleusercontent.com/wENIwaEzd35lXjtFZRAANCjicdRUMi7fc2AZRPusg9gs7iHFY2uo_xN0IuedZbvY5mI7BrAUncxrbCNxsYoxPe3VXHs2NGnWQmC4FxU=w600" alt="" width="100"/>
 
 these guys are more straight-up utility.  sure, they're fun and have interesting narrative associated with them, but the main benefit is all of the forth-coming partnerships within the thorchain defi [ecosystem](https://www.thorguards.com/guardpass).
 
